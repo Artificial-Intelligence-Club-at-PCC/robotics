@@ -47,7 +47,7 @@ If your hexapod robot uses an Arduino (or compatible microcontroller) for motor 
 
 2. **Open in Arduino IDE**: Launch the [Arduino IDE](https://www.arduino.cc/en/software/) and open the `.ino` file.
 
-3. **Connect Your Arduino Board**: Plug in your Arduino via USB.
+3. **Connect Your Arduino Board**: Plug in your Arduino via USB or via Wifi by following the instructions given in the tutorials for the hexapod.
 
 4. **Select Board and Port**: In the IDE, go to `Tools > Board` and select your Arduino model. Then select the correct port under `Tools > Port`.
 
